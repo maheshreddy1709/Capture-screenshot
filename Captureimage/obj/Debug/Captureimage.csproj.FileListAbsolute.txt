@@ -1,0 +1,7 @@
+E:\Utilities\CaptureImage\Captureimage\Captureimage\bin\Debug\Captureimage.pdb
+E:\Utilities\CaptureImage\Captureimage\Captureimage\obj\Debug\Captureimage.csprojAssemblyReference.cache
+E:\Utilities\CaptureImage\Captureimage\Captureimage\obj\Debug\Captureimage.pdb
+E:\Utilities\CaptureImage\Captureimage\Captureimage\bin\Debug\Captureimage.exe
+E:\Utilities\CaptureImage\Captureimage\Captureimage\obj\Debug\Captureimage.exe
+E:\Utilities\CaptureImage\Captureimage\Captureimage\obj\Debug\Captureimage.Form1.resources
+E:\Utilities\CaptureImage\Captureimage\Captureimage\obj\Debug\Captureimage.csproj.GenerateResource.cache
